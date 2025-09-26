@@ -1,1 +1,19 @@
 # webex_meeting_mcp
+`webex.meetings` Toolset
+list_meetings
+get_meeting_details
+get_meeting_transcript
+get_recording
+list_recording
+create_meeting
+update_meeting
+delete_meeting
+add_participants
+remove_participants
+list_participants
+`webex.messaging` Toolset
+list_spaces
+get_messages
+send_message
+create_space
+add_member_to_space
